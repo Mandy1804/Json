@@ -1,0 +1,21 @@
+h1 {
+    color: blueviolet;
+}
+
+body{
+    background-color: rgb(209, 176, 240);
+}
+
+ div{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+ }
+
+ input {
+    color: rgb(200, 80, 236);
+ }
+
+ button {
+    color: blueviolet;
+ }
